@@ -1,7 +1,7 @@
 # Flappy-Pengu
 
 ## Description
-A remake of 2014’s most popular mobile game Flappy Bird, I designed and constructed Flappy Pengu using the Unity game engine. In addition to coding in C#, through making this game, I learned fundamental game design principles, including spawning objects, using physics principles, and implementing game logic.
+A remake of 2014’s most popular mobile game Flappy Bird, I designed and constructed Flappy Pengu using the Unity game engine. In addition to coding in C#, I learned fundamental game design principles through making this game including spawning objects, using physics principles, and implementing game logic.
 
 ## Demo
 
