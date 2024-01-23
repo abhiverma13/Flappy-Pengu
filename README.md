@@ -11,6 +11,8 @@ A remake of 2014’s most popular mobile game Flappy Bird, I designed and constr
 This game is far from finished as I have many ideas that would make it more enjoyable:
 - Increased speed of pipes as you keep going (would have to increase gravity and jump velocity to allow penguin to have sharper falls/jumps)
 - Close pipes, add targets on pipes and give penguin ability to shoot bullets. Hitting target would open pipes. (could be separate game mode as well)
+- Various power-ups (immunity to pipes, enlarging gap between pipes, etc.)
+- Add levels to game with increasing difficulty (could be separate game mode as well)
 - Retain high score in user's hard drive
 - Add flapping animation
 - Add moving background
